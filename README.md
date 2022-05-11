@@ -15,3 +15,6 @@ it's simply a magisk module to system-ize them.
 
 ## Credits
 - **Lawnchair team** for their awesome work.
+
+## Download
+get latest build directly from <a href="https://github.com/Magisk-Modules-Alt-Repo/Lawnchair/releases/latest">here</a>
